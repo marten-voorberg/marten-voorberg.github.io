@@ -1,0 +1,27 @@
+@charset "UTF-8"; 
+* {
+    font-family: sans-serif;
+}
+
+.centered-container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.links {
+    padding-top: 10px;
+    text-align: center;
+}
+
+#pic-of-me {
+    width: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 0;
+    height: auto;
+}
